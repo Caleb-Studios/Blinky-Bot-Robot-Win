@@ -1,4 +1,6 @@
 # V360 Pro (blinky bot app) — PC Alternative
+(buy the product here - ITS NOT MADE BY ME. - "https://theblinkybot.com/collections/our-blinky-bots/products/blinky-bot-pro-robot-camera")
+**ik it is overpriced but its not mine so yeah**
 
 ## Why This Exists
 
@@ -75,4 +77,3 @@ If you’ve ever used V360 Pro and thought
 *"why is this so bad?"*  
 
 Yeah… same. That’s why this exists.
-(i kinda hacked the apk to see the controls and how to send then though...)
