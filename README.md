@@ -1,6 +1,7 @@
 # V360 Pro (blinky bot app) — PC Alternative
 (buy the product here - ITS NOT MADE BY ME. - "https://theblinkybot.com/collections/our-blinky-bots/products/blinky-bot-pro-robot-camera")
 **ik it is overpriced but its not mine so yeah**
+**made for blinky bot pro (cheapest one)**
 
 ## Why This Exists
 
